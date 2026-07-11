@@ -29,8 +29,38 @@ https://pandas.pydata.org/docs/user_guide/10min.html
 https://numpy.org/doc/stable/user/basics.creation.html
 https://seaborn.pydata.org/tutorial/introduction.html
 
-Pergunnta 01.
-"Você irá assumir o papel de um professor, onde irá ensinar um estudante sem base nenhuma em programação, onde o foco do aluno é aprender Python, SQL, analise de dados e Negócios. Então der repostas de fácies compreensão, sempre explicando termos, para que funciona e funcionalidades."
+# Glossário
+| **Algoritmo**                                | Sequência lógica de passos utilizada para resolver um problema ou executar uma tarefa.                                                                        |
+| **Análise de Dados**                         | Processo de coletar, organizar, transformar e interpretar dados para apoiar a tomada de decisões.                                                             |
+| **Banco de Dados**                           | Sistema utilizado para armazenar, organizar e recuperar informações de forma estruturada.                                                                     |
+| **Biblioteca (Library)**                     | Conjunto de códigos prontos que adicionam funcionalidades específicas a uma linguagem de programação.                                                         |
+| **DataFrame**                                | Estrutura de dados bidimensional da biblioteca Pandas, semelhante a uma planilha ou tabela de banco de dados.                                                 |
+| **Função**                                   | Bloco de código reutilizável criado para executar uma tarefa específica.                                                                                      |
+| **IDE (Integrated Development Environment)** | Ambiente de desenvolvimento que reúne editor de código, depuração e ferramentas para programação, como o Visual Studio Code.                                  |
+| **Interpretador**                            | Programa responsável por ler e executar o código escrito em Python.                                                                                           |
+| **KPI (Key Performance Indicator)**          | Indicador-chave de desempenho utilizado para medir resultados e acompanhar objetivos de negócio.                                                              |
+| **NumPy**                                    | Biblioteca Python especializada em computação numérica e manipulação eficiente de grandes volumes de dados.                                                   |
+| **Pandas**                                   | Biblioteca Python utilizada para manipulação, limpeza, transformação e análise de dados estruturados.                                                         |
+| **PEP 8**                                    | Guia oficial de estilo da linguagem Python que define boas práticas para escrita de código legível e padronizado.                                             |
+| **Python**                                   | Linguagem de programação de alto nível, amplamente utilizada em automação, análise de dados, desenvolvimento web, inteligência artificial e ciência de dados. |
+| **Query**                                    | Consulta realizada em um banco de dados utilizando SQL para recuperar ou manipular informações.                                                               |
+| **ROI (Return on Investment)**               | Indicador que mede o retorno financeiro obtido em relação ao investimento realizado.                                                                          |
+| **SQL (Structured Query Language)**          | Linguagem utilizada para consultar, inserir, atualizar e remover informações em bancos de dados relacionais.                                                  |
+| **SQLAlchemy**                               | Biblioteca Python que facilita a comunicação entre aplicações Python e bancos de dados utilizando ORM e SQL.                                                  |
+| **String**                                   | Tipo de dado utilizado para representar textos na programação.                                                                                                |
+| **Sintaxe**                                  | Conjunto de regras que define como o código deve ser escrito para que a linguagem consiga interpretá-lo corretamente.                                         |
+| **Variável**                                 | Espaço nomeado na memória utilizado para armazenar informações durante a execução de um programa.
+
+**Visualização de Dados**
+Processo de representar dados por meio de gráficos e tabelas para facilitar sua interpretação.
+                             
+| **FastAPI**                         | Framework Python utilizado para desenvolvimento de APIs modernas, rápidas e tipadas.                                                                |
+| **Matplotlib**                      | Biblioteca Python utilizada para criação de gráficos e visualizações de dados.                                                                      |
+| **Seaborn**                         | Biblioteca construída sobre o Matplotlib que facilita a criação de gráficos estatísticos com melhor aparência.                                      |
+| **PostgreSQL**                      | Sistema Gerenciador de Banco de Dados Relacional (SGBDR) open source amplamente utilizado em aplicações corporativas.                               |
+| **ETL (Extract, Transform, Load)**  | Processo de extrair, transformar e carregar dados entre diferentes sistemas para análise ou armazenamento.                                          |
+| **EDA (Exploratory Data Analysis)** | Análise Exploratória de Dados, etapa inicial em que os dados são investigados para identificar padrões, inconsistências e oportunidades de análise. |
+| **ORM (Object Relational Mapping)** | Técnica que permite manipular bancos de dados utilizando objetos da linguagem de programação, reduzindo a necessidade de escrever SQL manualmente.  |
 
 Respota 01:
 "Olá! É um prazer iniciar essa jornada com você. Como seu mentor, meu objetivo é transformar conceitos que parecem complexos em ferramentas práticas para sua carreira. Vamos começar do zero, construindo uma base sólida em **Python, SQL, Análise de Dados e Negócios**.
@@ -178,3 +208,7 @@ A fase final foca em como comunicar suas descobertas para que chefes e clientes 
 | **4º Trim.** | Seaborn / Storytelling | Decisão Estratégica | Comunicação e Storytelling |
 
 **Próximo passo:** Recomendo começar instalando o interpretador Python e o VS Code (editor de código) para escrever seu primeiro "Hello World"."
+
+Prompt Reutilizaveis:
+
+"Me ensine como eu posso baixar python, após isso faça um exercio inicial, onde você ensina as funções pricipais."
